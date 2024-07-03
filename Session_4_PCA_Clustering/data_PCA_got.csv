@@ -1,0 +1,25 @@
+Name;Nb_chp_narr;Gender;Married;Age;Nb_death_relationships;Popularity;isAlive
+Eddard Stark;15;1;1;36;6;1;0
+Catelyn Tully;25;0;NA;NA;NA;NA;NA
+Sansa Stark;24;0;1;19;10;1;1
+Arya Stark;33;0;0;16;8;1;1
+Bran Stark;21;1;0;15;7;1;1
+Jon Snow;42;1;0;22;5;1;1
+Daenerys Targaryen;31;0;1;21;15;1;1
+Tyrion Lannister;47;1;1;32;12;1;1
+Theon Greyjoy;13;1;0;27;4;1;1
+Davos Seaworth;13;1;1;45;1;0,969899666;1
+Samwell Tarly;10;1;0;22;0;0,969899666;1
+Jaime Lannister;17;1;0;39;7;1;1
+Cersei Lannister;12;0;1;39;9;1;1
+Brienne of Tarth;8;0;NA;NA;NA;NA;NA
+Areo Hotah;2;1;0;48;0;0,257525084;1
+Harys Haigh;1;1;0;51;0;0,090301003;1
+Arianne Martell;2;0;0;29;0;0,571906355;1
+Asha Greyjoy;4;0;1;30;0;0,7090301;1
+Aeron Greyjoy;2;1;0;36;4;0,45819398;1
+Victarion Greyjoy;4;1;0;37;4;0,705685619;1
+Quentyn Martell;4;1;0;19;0;0,551839465;0
+Jon Connington;2;1;0;42;0;0,719063545;1
+Melisandre;1;0;0;NA;0;0,745819398;1
+Barristan Selmy;4;1;0;69;0;1;1
